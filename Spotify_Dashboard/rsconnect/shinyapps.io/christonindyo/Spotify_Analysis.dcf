@@ -1,0 +1,13 @@
+name: Spotify_Analysis
+title: Spotify_Analysis
+username:
+account: christonindyo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6734275
+bundleId: 6162620
+url: https://christonindyo.shinyapps.io/Spotify_Analysis/
+when: 1659547249.7424
+lastSyncTime: 1659547249.74244
+asMultiple: FALSE
+asStatic: FALSE
