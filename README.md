@@ -4,3 +4,7 @@ It also contain some factor that maybe could influence the streaming count in sp
 
 You can see the dashboard here :
 http://christonindyo.shinyapps.io/Spotify_Analysis_2020-2021
+
+![Spotify-Analysis-Google-Chrome-2](https://user-images.githubusercontent.com/105972495/189955321-05bb000f-2b4f-4540-9e7e-4a9a5ba48b21.gif)
+
+
